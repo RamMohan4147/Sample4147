@@ -1,0 +1,208 @@
+Python
+======
+
+python is a language
+===============
+
+language
+========
+provides communication
+
+there are 2 types of languages
+
+1.normal languages.
+
+2.computer languages.
+
+1.normal languages
+  ================
+   it provides communication among the people
+
+  ex:-telugu,english,hindi...etc
+
+2.computer languages
+  =================
+it provides communication b/w computer and user.
+
+  there are 3 types of computer languages.
+
+    1.manchin level language(MLL)
+
+    2.assembely level language
+
+    3.high levellanguage
+
+1.m.l.l
+  =====
+     it is a language which is constructed with 0 and 1.
+
+    it is not understandable to user
+   
+     it is understandable to only computer.
+
+
+2.a.l.l
+  ======
+   it is also a language compelety constructed in english...
+ no symbols
+     a add b
+     a sub b
+     a store 10
+
+    it is understandable to user
+   but not understandable to computer.
+
+ masam,tasam...etc
+
+3.h.l.l
+  =====
+   it is also language which is constructed by mixing english and symbols.
+
+   a+b
+   a-b
+it is understandable to user
+   but not understandable to computer.
+
+ C,C++,java,python...etc
+
+C.U.L----------->MLL
+
+U.U.L---------->ALL,HLL
+
+Translators
+===========
+ these are used translate one language code into another language code.
+
+ 1.assembler----------all---->MLL
+ 2.interpreter--------HLL---->MLL
+ 3.compiler------------HLL---->MLL
+
+---->the process done by interpreter is called interpretation
+
+---->the process done by compiler is called compilation.
+
+
+====>only compiler---->c,c++
+
+===>compiler and interpreter----->java
+
+====>interpreter-------->python
+
+python------>interpreted---because python supports interpreter
+
+in python only one error is displayed at a time eventhough multiple errors are there
+in your python program.
+
+
+python is highlevel,interpreted prgramming language.
+
+-->python language(communication)
+
+-->python is computer language(communication b/w user and computer)
+
+--->python is Highlevel language(english,symbols,digits)
+
+-->python is interpreted language(to convert from HLL to MachinLevel language)
+
+conclusion
+------------
+-->python is a highlevel,interpreted programming laguage
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+software
+========
+set of programs is called software
+
+program
+=======
+set of instructions/statements is called program
+
+instruction
+===========
+instructions are designed to performe particular task by
+the computer.
+
+programming languages
+=====================
+programming languages are used to design softwares
+
+by writting programs by wirtting instructions.
+
+
+ex:- C,C++,java,python,javascript....etc
+===========================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
